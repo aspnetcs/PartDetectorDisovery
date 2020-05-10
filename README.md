@@ -1,5 +1,12 @@
 # Part Detector Discovery
 
+# Paper
+https://arxiv.org/pdf/1411.3159.pdf
+
+# Reference
+Simon M , Rodner E , Denzler J . Part Detector Discovery in Deep Convolutional Neural Networks[J]. 2014.
+
+
 This is the code used in our paper "Part Detector Discovery in Deep Convolutional Neural Networks" by Marcel Simon, Erik Rodner and Joachim Denzler published at ACCV 2014. 
 If you would like to refer to this work, please cite the corresponding paper
 
